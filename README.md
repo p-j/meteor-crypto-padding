@@ -1,5 +1,7 @@
 Ported to Meteor from [CryptoJS](https://code.google.com/p/crypto-js/). 
 
+[![Build Status](https://travis-ci.org/p-j/meteor-crypto-padding.svg)](https://travis-ci.org/p-j/meteor-crypto-padding)
+
 Provide a variety of Padding Strategy to be used with CryptoJS packages.
 
 Related package:
